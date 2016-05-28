@@ -5,7 +5,7 @@
 #   gem 'sqlite3'
 #
 
-default: &default
+ default: &default
     Root User: adminhwbzb9s
    Root Password: eJTdWMTAwCIc
    Database Name: ruby
