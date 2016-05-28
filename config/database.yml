@@ -5,10 +5,10 @@
 #   gem 'sqlite3'
 #
 
- default: &default
-    Root User: adminhwbzb9s
-   Root Password: eJTdWMTAwCIc
-   Database Name: ruby
+ #default: &default
+  #  Root User: adminhwbzb9s
+  # Root Password: eJTdWMTAwCIc
+  # Database Name: ruby
 
 #adapter: sqlite3
   #pool: 5
